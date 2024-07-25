@@ -22,13 +22,12 @@ Repository containing solutions to various exercises in R programming (NEOMA M1 
 • If you have a version with unsolved conflicts, start again with a clean install <br>
 
 <h2> Content: </h2> <br>
-• Session 1 – Basics of R and R studio
-• Session 2 – Vectors, matrices, data frames…
-• Session 3 – Functions, conditions and loops
-• Session 4 – Optimization
-• Session 5 – Revision and exercises (including midterm exam)
-• Session 6 – Data import, descriptive statistics
-• Session 7 – Statistical tests and visualization
-• Session 8 – Text mining
-• Session 9 – Regression analysis
-• Session 10 – Revision for the final exam
+• Session 1 – Basics of R and R studio <br>
+• Session 2 – Vectors, matrices, data frames <br>
+• Session 3 – Functions, conditions and loops <br>
+• Session 4 – Optimization <br>
+• Session 5 – Revision and exercises (including midterm exam) <br>
+• Session 6 – Data import, descriptive statistics <br>
+• Session 7 – Statistical tests and visualization <br>
+• Session 8 – Text mining <br>
+• Session 9 – Regression analysis <br>
