@@ -31,3 +31,11 @@ Repository containing solutions to various exercises in R programming (NEOMA M1 
 • Session 7 – Statistical tests and visualization <br>
 • Session 8 – Text mining <br>
 • Session 9 – Regression analysis <br>
+
+<h2> After completing this course, I gained expertise over: </h2> 
+ 1. Using R through R Studio <br>
+ 2. Using vectors, matrices, loops and conditions <br>
+ 3. Constructing my own functions <br>
+ 4. Visualizing categorical, quantitative and text data <br>
+ 5. Analyzing a dataset and draw practical conclusions <br>
+
