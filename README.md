@@ -1,7 +1,7 @@
 # R-Programming
 Repository containing solutions to various exercises in R programming (NEOMA M1 course)
 
-<h2> Instructions to download R: </h2> <br>
+<h2> Instructions to download R: </h2> 
 1. Install R (the version that fits your operating system): <br><br>
 
 •https://cran.r-project.org/ <br>
@@ -21,7 +21,7 @@ Repository containing solutions to various exercises in R programming (NEOMA M1 
 • If yes, update your packages also <br>
 • If you have a version with unsolved conflicts, start again with a clean install <br>
 
-<h2> Content: </h2> <br>
+<h2> Content: </h2> 
 • Session 1 – Basics of R and R studio <br>
 • Session 2 – Vectors, matrices, data frames <br>
 • Session 3 – Functions, conditions and loops <br>
