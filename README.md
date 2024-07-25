@@ -15,7 +15,6 @@ Repository containing solutions to various exercises in R programming (NEOMA M1 
 • https://posit.co/download/rstudio-desktop/<br>
 • Normally, it will recognize your operating system, you can still scroll down and find the right version<br><br>
 
-
 3. If R and/or Rstudio has already been installed on your computer, check if it is the latest version <br><br>
 
 • If not, go to 1 <br>
